@@ -1,0 +1,3 @@
+# Lives Command
+
+<table data-full-width="true"><thead><tr><th>Command</th><th>Permission</th><th>Description</th></tr></thead><tbody><tr><td>/lives get &#x3C;player></td><td>factions.commands.lives.get</td><td>Shows the selected player's remaining lives</td></tr><tr><td>/lives set &#x3C;player> &#x3C;lives></td><td>factions.commands.lives.set</td><td>Sets the selected player's lives</td></tr><tr><td>/lives give &#x3C;player> &#x3C;lives></td><td>factions.commands.lives.give</td><td>Gives live to the selected player</td></tr><tr><td>/lives take &#x3C;player> &#x3C;lives></td><td>factions.commands.lives.take</td><td>Takes lives from the selected player</td></tr></tbody></table>

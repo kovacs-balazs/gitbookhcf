@@ -1,0 +1,4 @@
+# Custom Timer Commands
+
+<table data-full-width="true"><thead><tr><th>Command</th><th>Permission</th><th>Description</th></tr></thead><tbody><tr><td>/customtimer create &#x3C;name></td><td>factions.commands.admin.customtimer.create</td><td>Creates a custom timer</td></tr><tr><td>/customtimer delete &#x3C;name></td><td>factions.commands.admin.customtimer.delete</td><td>Delete the custom timer</td></tr><tr><td>/customtimer settext &#x3C;name> &#x3C;text></td><td>factions.commands.admin.customtimer.settext</td><td>Modify the text to the new text</td></tr><tr><td>/customtimer settime &#x3C;name> &#x3C;time>h|m</td><td>factions.commands.admin.customtimer.settime</td><td>Sets the time to the new time</td></tr><tr><td>/customtimer list</td><td>factions.commands.admin.customtimer.list</td><td>List of the custom timers</td></tr></tbody></table>
+
